@@ -83,7 +83,7 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
+- ✅ [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
   - [Introduction to Programming](#introduction-to-programming)
   - [Introduction to Computer Science](#introduction-to-computer-science)
